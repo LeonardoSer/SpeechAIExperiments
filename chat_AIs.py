@@ -8,7 +8,7 @@ from TTS.utils.synthesizer import Synthesizer
 from TTS.utils.manage import ModelManager
 
 # AI config
-API_KEY = "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"
+API_KEY = "<YOUR_API_KEYS>"
 openai.api_key = API_KEY
 chat_log_1 = None
 chat_log_2 = None

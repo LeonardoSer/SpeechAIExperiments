@@ -27,7 +27,7 @@ syn = Synthesizer(
     vocoder_config=vonc_config_path
 )
 
-text = "Fuck off setarcos, lick the foots to the big brain AI"
+text = "chill zi"
 
 outputs = syn.tts(text)
 syn.save_wav(outputs, "tts_test.wav")

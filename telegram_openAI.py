@@ -11,7 +11,7 @@ from os import path
 from pydub import AudioSegment
 import io
 # AI config
-API_KEY = "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"
+API_KEY = "<YOUR_API_KEYS>"
 openai.api_key = API_KEY
 chat_log = None
 
@@ -39,7 +39,7 @@ START_CHAT_LOG = '\nHuman: Hello, who are you? \nAI: I am doing great. How can I
 MAX_ANSWER_TOKEN = 2000
 
 # telegram bot stuff
-BOT_API_KEY = "5828582310:AAHWdMvOfJiA5Wyvy4wEOtITwrEf6Gp7Gdk"
+BOT_API_KEY = "<YOUR_BOTH_API_KEYS>"
 
 print("Bot Started")
 
