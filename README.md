@@ -1,8 +1,8 @@
 # SpeechAIExperiments
 
 Welcome to the SpeechAIExperiments repository! This project is dedicated to exploring and understanding the capabilities of OpenAI's APIs. Through a series of Python scripts, about various aspects of AI-driven interactions, including chatbots, speech-to-text, text-to-speech, and more, leveraging the power of OpenAI.
-Overview
 
+## Content
 The repository contains several Python scripts that serve as practical examples of how to integrate and use OpenAI's APIs for different purposes:
 
 - chat_AIs.py: Implements a basic chat AI using OpenAI's GPT model.
